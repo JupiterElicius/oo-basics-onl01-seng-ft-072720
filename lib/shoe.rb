@@ -10,8 +10,4 @@ attr_accessor :brand, :color, :size, :material, :condition
     puts "Your shoe is as good as new!"
     @condition = "new"
   end
-
-
-
-
 end
